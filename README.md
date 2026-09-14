@@ -1,62 +1,84 @@
 <div align="center">
-  <h1>Olá, eu sou Fábio Siqueira 👋</h1>
-  <p><strong>Desenvolvedor Python focado em bots, APIs, integrações e automações com inteligência artificial.</strong></p>
-  <a href="https://www.workana.com/freelancer/496363b8f8a724adcb490c3fcae4b3bd"><img src="https://img.shields.io/badge/Workana-Ver_perfil-008653?style=for-the-badge" alt="Ver perfil na Workana" /></a>
+
+# fabiomdsiq
+
+**Python • Bots • Chatbots • APIs • Dashboards • IA • Automação**
+
+Transformo ideias e processos manuais em sistemas simples, testáveis e preparados para o uso real.
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-Conhecer_projetos-071A3A?style=for-the-badge&logo=githubpages&logoColor=white)](https://fabiomdsiq.github.io/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Falar_com_fabiomdsiq-008653?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547996887849)
+[![Telegram](https://img.shields.io/badge/Telegram-@fabiomdsiq-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fabiomdsiq)
+[![Workana](https://img.shields.io/badge/Workana-Avaliações_e_referências-6F42C1?style=for-the-badge)](https://www.workana.com/freelancer/496363b8f8a724adcb490c3fcae4b3bd)
+
 </div>
 
-## Sobre mim
+## Sobre
 
-Transformo processos manuais em fluxos simples, testáveis e funcionais. Meu trabalho combina desenvolvimento em Python, integração entre plataformas e atenção ao uso real da solução.
+Sou desenvolvedor Python com mais de **5 anos de experiência em tecnologia e automações** e mais de **3 anos de atuação profissional com Python**.
 
-Antes de desenvolver, procuro entender a operação, separar o que é essencial do que pode ficar para uma próxima etapa e definir critérios objetivos de validação. Durante o projeto, mantenho comunicação próxima e realizo testes funcionais e operacionais.
+Antes de desenvolver, procuro entender a operação, separar o essencial das melhorias futuras e definir como o resultado será validado. Trabalho por etapas, mantenho comunicação próxima e realizo testes funcionais e operacionais.
 
-## O que eu desenvolvo
+## O que posso construir
 
-- Bots para Telegram: triagem, gestão de membros, notificações, grupos e canais.
-- Automações para WhatsApp: atendimento, respostas, qualificação e agendamento.
-- Integrações entre APIs, webhooks, planilhas e bancos de dados.
-- Assistentes e fluxos com OpenAI/GPT.
-- Confirmação de pagamentos e liberação automática de acessos.
-- Web scraping, monitoramento e tratamento de dados.
-- Automação de planilhas, arquivos e tarefas repetitivas.
-- Aplicativos desktop simples em Python.
+- Bots e chatbots para WhatsApp, Telegram e fluxos de atendimento.
+- APIs, webhooks e integrações entre plataformas.
+- Dashboards interativos e dinâmicos conectados a dados reais.
+- Assistentes, classificação e geração de conteúdo com IA.
+- Agendamentos, notificações e rotinas automáticas.
+- Integrações com pagamentos, planilhas e bancos de dados.
+- Automação de navegador, coleta e monitoramento de informações.
+- Aplicações web e ferramentas internas sob medida.
+
+## IA e ecossistema Google
+
+- OpenAI / GPT, Gemini, LLMs e prompts estruturados.
+- Google Cloud, Firebase, Google Sheets e BigQuery.
+- Pipelines de dados, validação, logs e rastreabilidade.
+- Integração de IA com APIs, dashboards e processos operacionais.
 
 ## Tecnologias
 
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-071A3A?style=flat-square&logo=python&logoColor=white)
-![REST APIs](https://img.shields.io/badge/APIs_REST-1769E0?style=flat-square)
-![Webhooks](https://img.shields.io/badge/Webhooks-1769E0?style=flat-square)
-![Telegram](https://img.shields.io/badge/Telegram-071A3A?style=flat-square&logo=telegram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-008653?style=flat-square&logo=whatsapp&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%2FGPT-071A3A?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-071A3A?style=flat-square&logo=python&logoColor=FFD447)
+![FastAPI](https://img.shields.io/badge/FastAPI-008653?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-071A3A?style=flat-square&logo=react&logoColor=61DAFB)
+![OpenAI](https://img.shields.io/badge/OpenAI_/_GPT-071A3A?style=flat-square&logo=openai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1769E0?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF6B1A?style=flat-square&logo=firebase&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-008653?style=flat-square&logo=googlesheets&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-071A3A?style=flat-square&logo=pandas&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-1769E0?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-071A3A?style=flat-square&logo=mysql&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-008653?style=flat-square&logo=selenium&logoColor=white)
-
-</div>
+![Docker](https://img.shields.io/badge/Docker-1769E0?style=flat-square&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-071A3A?style=flat-square&logo=postgresql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-008653?style=flat-square&logo=playwright&logoColor=white)
 
 ## Como trabalho
 
-1. **Alinhamento:** entendo o objetivo, as entradas, as saídas e as regras.
-2. **Escopo inicial:** separo o MVP das melhorias futuras.
-3. **Prova funcional:** construo primeiro o fluxo principal para validar cedo.
-4. **Integrações:** conecto APIs, bancos e planilhas com tratamento de falhas.
-5. **Testes operacionais:** valido cenários reais, exceções e permissões.
-6. **Entrega e orientação:** organizo a solução e explico sua operação.
+| Etapa | Objetivo |
+|---|---|
+| 01 — Entender | Mapear o problema, o contexto, as entradas e as regras. |
+| 02 — Definir | Separar o MVP das melhorias futuras e alinhar critérios de aceite. |
+| 03 — Prototipar | Construir primeiro o fluxo principal para validar cedo. |
+| 04 — Integrar | Conectar APIs, bancos, planilhas e serviços com tratamento de falhas. |
+| 05 — Testar | Validar cenários reais, exceções, permissões e indisponibilidades. |
+| 06 — Evoluir | Organizar a entrega e ampliar o que demonstrou valor. |
 
-## Experiência na Workana
+## Experiência verificada
 
-- 47 projetos realizados.
-- 48 avaliações de clientes.
-- Nota média de 4,57/5 na data da última atualização.
-- Experiência prática com Telegram, WhatsApp, APIs, IA, dados e pagamentos.
+- **47 projetos** realizados e avaliados na Workana.
+- **48 avaliações** de clientes.
+- **Nota média 4,57/5** na data da última atualização.
+- Ótimas referências disponíveis no perfil da plataforma.
+
+## Portfólio
+
+Conheça os dois modos do meu site:
+
+- [Automações, bots, APIs e dashboards](https://fabiomdsiq.github.io/)
+- [IA, Google e engenharia de sistemas](https://fabiomdsiq.github.io/ia/)
+
+[![Portfólio fabiomdsiq](https://fabiomdsiq.github.io/assets/hero-automacao.png)](https://fabiomdsiq.github.io/)
 
 ## Vamos conversar?
 
-Estou disponível para conversar, alinhar ideias e definir um MVP. Gostaria muito de ajudar a criar a melhor solução para o seu projeto.
+Estou disponível para conversar, alinhar ideias, definir o MVP e realizar os testes necessários. Gostaria muito de ajudar a criar a melhor solução para o seu projeto.
 
-➡️ [Conheça meu perfil e minhas avaliações na Workana](https://www.workana.com/freelancer/496363b8f8a724adcb490c3fcae4b3bd)
+[**Falar com fabiomdsiq no WhatsApp**](https://wa.me/5547996887849) · [**Telegram @fabiomdsiq**](https://t.me/fabiomdsiq)
